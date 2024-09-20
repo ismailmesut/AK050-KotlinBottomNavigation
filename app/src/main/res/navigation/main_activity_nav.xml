@@ -15,4 +15,9 @@
         android:name="com.ismailmesutmujde.kotlinbottomnavigation.SecondFragment"
         android:label="fragment_second"
         tools:layout="@layout/fragment_second" />
+    <fragment
+        android:id="@+id/thirdFragment"
+        android:name="com.ismailmesutmujde.kotlinbottomnavigation.ThirdFragment"
+        android:label="fragment_third"
+        tools:layout="@layout/fragment_third" />
 </navigation>
